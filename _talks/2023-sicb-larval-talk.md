@@ -7,9 +7,11 @@ venue: "Society of Integrative and Comparative Biology (SICB)"
 date: 2023-01-01
 location: "Austin, TX, USA"
 ---
-[abstract](/talks/2023-sicb-larval-talk)
+[abstract](/talks/2023-sicb-larval-talk) |
 [related paper](/files/Assessing_Main_text.pdf) |
 [supplementary](/files/Assessing_SI.pdf) 
+
+
 **Abstract**
 The notoriously inefficient feeding of early-stage larval fish has been speculated to drive their “critical period” of extreme mortality. Larval feeding success is constrained by the viscous hydrodynamic regime they experience at small size, which is ameliorated as larvae grow. However, how larval feeding success is affected by variation in environmental conditions is poorly understood. 
 
