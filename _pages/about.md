@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Shir Bar
-
 Hi! I'm Shir, I'm a PhD candidate at Tel Aviv University's School of Zoology, co-advised by Prof. Roi Holzman (Zoology) and Prof. Shai Avidan (Electrical Engineering).
 I'm intereseted in how we can use recent advances from the field of computer vision to advance ecological research. 
 
