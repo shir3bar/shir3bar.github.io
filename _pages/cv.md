@@ -30,20 +30,20 @@ Awards & Grants
 Professional Experience
 ======
 
+* **2020–Present**  **Volunteer Whale Shark Project Manager**, Sharks in Israel NGO  
+  * Lead whale shark data management and individual re-identification via WildMe's Wildbook platform 
+  * Contributing to new discoveries in the Red Sea region.
+
 * **2020 Jul-Sep** **Research Assistant** at Prof. Roi Holzman’s Lab, Zoology School, Tel Aviv University
   * Part of a project to build computer vision system for analysis of fish larvae behavior from video. 
   * Developed a video pre-processing pipeline using OpenCV and Python. 
   * Additionally, I created Graphical User Interface to ease the pre-processing and labeling workflows.
 
-* **2020–Present**  **Volunteer Whale Shark Project Manager**, Sharks in Israel NGO  
-  * Lead whale shark data management and individual re-identification via WildMe's Wildbook platform 
-  * Contributing to new discoveries in the Red Sea region.
-
 * **2019** **Marine Biologist**, Love the Oceans NGO, Mozambique  
   * Led the Consevation Adventure Program 
   * Instructed a diverse group of international volunteers and ensured program delivery in high-pressure settings.
 
-* **2015–2018** **TA**, *Courses at the Interuniversity Institute for Marine Sciences, Eilat  
+* **2015–2018** **TA**, Courses at the Interuniversity Institute for Marine Sciences, Eilat  
   * Delivered field instruction and handled logistics on marine ecology in week-long intensive courses.
 
 * **2014–2015** **Research assistant** at the Risk Management Ecology Lab of Prof. Dror Hawlena, at the department of Ecology, Evolution Behavior, Hebrew University of Jerusalem
