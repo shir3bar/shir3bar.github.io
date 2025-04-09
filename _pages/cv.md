@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[PDF version](/files/Shir%20Bar%20-%20%20CV%202025.pdf)
 Education
 ======
 * **Ph.D** at Tel Aviv University's School of Zoology, advised by  Prof. Roi Holzman (Zoology) & Prof. Shai Avidan (Electrical Engineering), 2020-2026 (expected), GPA: 97  
