@@ -7,9 +7,11 @@ venue: "Society of Integrative and Comparative Biology (SICB)"
 date: 2023-01-01
 location: "Austin, TX, USA"
 ---
-[abstract](/talks/2023-sicb-larval-talk) |
+
 [related paper](/files/Assessing_Main_text.pdf) |
-[supplementary](/files/Assessing_SI.pdf) 
+[supplementary](/files/Assessing_SI.pdf) |
+[code](https://github.com/shir3bar/larval_fish_behavior_analysis)|
+[abstract](/talks/2023-sicb-larval-talk)
 
 
 **Abstract**

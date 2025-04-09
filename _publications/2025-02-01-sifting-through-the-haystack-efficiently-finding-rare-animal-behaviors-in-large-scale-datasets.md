@@ -13,6 +13,7 @@ citation: 'Bar, Shir; Hirschorn, Or; Holzman, Roi; Avidan, Shai. (2025). "Siftin
 ---
 [pdf](/files/Bar_Sifting_through_the_Haystack_-_Efficiently_Finding_Rare_Animal_Behaviors_WACV_2025_paper.pdf) |
 [supplementary](/files/Bar_Sifting_through_the_WACV_2025_supplemental.pdf) 
+[code](https://github.com/shir3bar/SiftingTheHaystack)
 
 **Abstract**
 In the study of animal behavior, researchers often record long continuous videos, accumulating into large-scale datasets. 
