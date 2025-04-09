@@ -10,7 +10,7 @@ location: "Austin, TX, USA"
 
 [related paper](/files/Assessing_Main_text.pdf) |
 [supplementary](/files/Assessing_SI.pdf) |
-[code](https://github.com/shir3bar/larval_fish_behavior_analysis)|
+[code](https://github.com/shir3bar/larval_fish_behavior_analysis) |
 [abstract](/talks/2023-sicb-larval-talk)
 
 
