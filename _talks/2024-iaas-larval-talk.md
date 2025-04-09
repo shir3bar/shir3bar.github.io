@@ -1,5 +1,5 @@
 ---
-title: "The Hunger Games – A Glimpse into larval fish prey capture behavior in-situ in aquaculture"
+title: "The Hunger Games – A glimpse into larval fish prey capture behavior in-situ in aquaculture"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-iaas-larval-talk
