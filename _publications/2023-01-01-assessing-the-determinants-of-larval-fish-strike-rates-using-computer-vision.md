@@ -14,6 +14,7 @@ citation: 'Bar, Shir; Levy, Liraz; Avidan, Shai; Holzman, Roi. (2023). "Assessin
 
 [pdf](/files/Assessing_Main_text.pdf) |
 [supplementary](/files/Assessing_SI.pdf) 
+[code](https://github.com/shir3bar/larval_fish_behavior_analysis)
 
 **Abstract**
 Measuring behaviors that affect fitness is a critical task in the study of ecology and evolution. 
