@@ -8,7 +8,7 @@ date: 2025-02-01
 venue: 'Proceedings of the Winter Conference on Applications of Computer Vision (WACV)'
 slidesurl: #''
 paperurl: 'https://openaccess.thecvf.com/content/WACV2025/papers/Bar_Sifting_through_the_Haystack_-_Efficiently_Finding_Rare_Animal_Behaviors_WACV_2025_paper.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bib3.bib'
+bibtexurl: 'http://shir3bar.github.io/files/bibtex3.bib'
 citation: 'Bar, Shir; Hirschorn, Or; Holzman, Roi; Avidan, Shai. (2025). "Sifting through the Haystack - Efficiently Finding Rare Animal Behaviors in Large-Scale Datasets." <i>Proceedings of the Winter Conference on Applications of Computer Vision (WACV)</i>. 6290-6299.'
 ---
 [pdf](/files/Bar_Sifting_through_the_Haystack_-_Efficiently_Finding_Rare_Animal_Behaviors_WACV_2025_paper.pdf) |

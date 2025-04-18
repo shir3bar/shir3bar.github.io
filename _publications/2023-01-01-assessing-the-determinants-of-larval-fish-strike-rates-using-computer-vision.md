@@ -8,7 +8,7 @@ date: 2023-01-01
 venue: 'Ecological Informatics'
 slidesurl: #''
 paperurl: 'https://doi.org/10.1016/j.ecoinf.2023.102195'
-bibtexurl: 'http://academicpages.github.io/files/bib1.bib'
+bibtexurl: 'http://shir3bar.github.io/files/bibtex1.bib'
 citation: 'Bar, Shir; Levy, Liraz; Avidan, Shai; Holzman, Roi. (2023). "Assessing the determinants of larval fish strike rates using computer vision." <i>Ecological Informatics</i>. 77:102195.'
 ---
 
